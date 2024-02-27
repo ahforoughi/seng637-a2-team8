@@ -2,7 +2,7 @@
 
 **Lab. Report \#2 – Requirements-Based Test Generation**
 
-| Group \#:      |     |
+| Group 8:      |     |
 | -------------- | --- |
 |Student Names |     |
 |Amir Allahveran                 |  30216696   |
