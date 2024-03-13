@@ -6,7 +6,7 @@
 | -------------- | --- |
 |Student Names |     |
 |Amir Allahveran                 |  30216696   |
-|Sephr Ganji                |   30223725  |
+|Sepehr Ganji                |   30223725  |
 |Zahra Arabi Narei         |  30191990   |
 |Sara Montajab          |  30221523   |
 |Amirhossein Foroughi          |  30228075   |
